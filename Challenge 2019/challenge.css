@@ -1,0 +1,145 @@
+.wrapper {
+    width: 100%;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #FFFFFF;
+    font-family: 'Roboto','Martel', sans-serif;
+}
+
+.mulch_page_introduction {
+    border-bottom: #C62A2D 2px solid;
+}
+
+.mulch_page_title {
+    text-align: center;
+    font-size: 40px;
+    color: #C62A2D;
+}
+
+.mulch_page_subtext {
+    text-align: center;
+    font-size: 15px;
+    color: #C62A2D;
+}
+
+navbarcolor {
+    background-color: #201F20;
+}
+
+articlecolor {
+    background-color: #F7F5F7;
+}
+
+buttoncolor {
+    background-color: #C62A2D;
+}
+
+.mulch_navbar {
+    width: 100%;
+    height: 48px;
+    overflow: hidden;
+    background-color: #201F20;
+    position: relative;
+}
+
+.mulch_navbar #mulch_navbar_pages {
+    display: none;
+}
+
+.mulch_navbar a {
+    border-top: #2B2A2B 1px solid;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.mulch_navbar a.icon {
+    border-left: #2B2A2B 1px solid;
+    background: #201F20;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.mulch_article {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #F7F5F7;
+}
+
+.mulch_article_title {
+    font-family: Martel;
+    font-weight: 900;
+    font-size: 28px;
+    padding-top: 20px;
+    color: #C62A2D;
+}
+
+.mulch_article_information {
+    color: #C62A2D;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.fa-calendar-alt {
+    color: #C62A2D;
+}
+
+.fa-comments {
+    color: #C62A2D;
+}
+
+.fa-user {
+    color: #C62A2D;
+}
+
+.mulch_article_content {
+    color: #9B999B;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.mulch_button {
+    background-color: #C62A2D;
+    border: #C62A2D 3px solid;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.mulch_button:hover {
+    background-color: #F9F6F8;
+    color: #C62A2D;
+}
+
+.mulch_article_other {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #F7F5F7;
+    box-shadow: 3px 3px #C62A2D;
+}
+
+@media all and (min-width:530px) {
+    .mulch_navbar {
+
+    }
+}
