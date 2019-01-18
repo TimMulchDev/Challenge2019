@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74e30f7-7d9d-411b-831e-45f86ceef8dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Challenge 2019/Berichten/post-image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge 2019/Berichten/post-image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge 2019/Berichten/post1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 2019/Berichten/post1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge 2019/Berichten/post1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenge 2019/challenge.css" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge 2019/challenge.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenge 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge 2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 2019/challenge.css___jb_tmp___" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,29 +27,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3086" />
-          <entry key="html" value="1155" />
-          <entry key="txt" value="55" />
+          <entry key="css" value="3148" />
+          <entry key="html" value="1174" />
+          <entry key="txt" value="179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3086" />
-          <entry key="HTML" value="1155" />
-          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="CSS" value="3148" />
+          <entry key="HTML" value="1174" />
+          <entry key="PLAIN_TEXT" value="179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="3" />
+          <entry key="html" value="4" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -61,8 +60,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Challenge 2019/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+            <state relative-caret-position="496">
+              <caret line="79" column="44" lean-forward="true" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenge 2019/Berichten/post1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-119">
+              <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -70,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Challenge 2019/challenge.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="233" column="7" lean-forward="true" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="7" />
+            <state relative-caret-position="319">
+              <caret line="322" column="5" lean-forward="true" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,6 +107,8 @@
       <find>footer</find>
       <find>content</find>
       <find>wrapper</find>
+      <find>full</find>
+      <find>post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,8 +118,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Challenge 2019/Berichten/Tis weer lente.html" />
-        <option value="$PROJECT_DIR$/Challenge 2019/Berichten/post1.html" />
         <option value="$PROJECT_DIR$/Challenge 2019/index.html" />
+        <option value="$PROJECT_DIR$/Challenge 2019/Berichten/post1.html" />
         <option value="$PROJECT_DIR$/Challenge 2019/challenge.css" />
       </list>
     </option>
@@ -162,7 +172,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547735260472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547813918093" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -198,7 +208,7 @@
       <updated>1547723926367</updated>
       <workItem from="1547723930005" duration="9174000" />
       <workItem from="1547763279108" duration="5937000" />
-      <workItem from="1547796722243" duration="8912000" />
+      <workItem from="1547796722243" duration="10442000" />
     </task>
     <task id="LOCAL-00001" summary="OwO">
       <created>1547724122998</created>
@@ -214,15 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547724278170</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Push + Commit&#10;Desktop versie af&#10;En de mobiele versie moet alleen de artikel nog fixen&#10;En de tablet moet de float uit">
+      <created>1547812841171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547812841172</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24023000" />
+    <option name="totallyTimeSpent" value="25553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05774897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -267,7 +283,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OwO" />
     <MESSAGE value="Kleine aanpassing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kleine aanpassing" />
+    <MESSAGE value="Push + Commit&#10;Desktop versie af&#10;En de mobiele versie moet alleen de artikel nog fixen&#10;En de tablet moet de float uit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push + Commit&#10;Desktop versie af&#10;En de mobiele versie moet alleen de artikel nog fixen&#10;En de tablet moet de float uit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Challenge 2019/Berichten/post2.html" />
@@ -281,24 +298,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenge 2019/Berichten/post1.html">
+    <entry file="file://$PROJECT_DIR$/Challenge 2019/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="496">
+          <caret line="79" column="44" lean-forward="true" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenge 2019/index.html">
+    <entry file="file://$PROJECT_DIR$/Challenge 2019/Berichten/post1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        <state relative-caret-position="-119">
+          <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Challenge 2019/challenge.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="233" column="7" lean-forward="true" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="7" />
+        <state relative-caret-position="319">
+          <caret line="322" column="5" lean-forward="true" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
         </state>
       </provider>
     </entry>

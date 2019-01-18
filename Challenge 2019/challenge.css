@@ -4,7 +4,7 @@
  }
 
 .wrapper_post {
-    width: 100%;
+    width: 1680px;
     height: auto;
 }
 
@@ -235,6 +235,19 @@ body {
     box-shadow: 3px 3px #C62A2D;
 }
 
+.mulch_article_other_post {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 600px;
+    height: auto;
+    background-color: rgb(247, 245, 247);
+    box-shadow: 3px 3px #C62A2D;
+}
+
 .mulch_article_other_button {
     background-color: rgba(255, 0, 0, 0);
     outline: none;
@@ -313,7 +326,7 @@ body {
     }
 }
 
-@media all and (min-width:870px) { /*Einde Tablet Mode (nav) - Nu zie je de tablet mode (full)*/
+@media all and (min-width:900px) { /*Einde Tablet Mode (nav) - Nu zie je de tablet mode (full)*/
     .mulch_footer {
         background-color: #C62A2D;
     }
